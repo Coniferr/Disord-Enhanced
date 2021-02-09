@@ -1,0 +1,143 @@
+ /**
+ * @name Discord Enhanced
+ * @author Conifer#3036
+ * @version 21w05a
+ * @invite ubzQTHFNzw
+ * @description Aims to make some small changes.
+*/
+
+
+/*Profiles*/
+
+.headerPlaying-j0WQBV, .topSectionPlaying-1J5E4n, .headerSpotify-zpWxgT, .headerXbox-3G-4PF, .topSectionSpotify-1lI0-P, .headerStreaming-2FjmGz, .topSectionStreaming-1Tpf5X, .topSectionXbox-3fWLjS {
+    background-color: #202225;
+}
+
+.lookOutlined-3sRXeN, .colorWhite-rEQuAQ, .wrapper-2aW0bm {
+    background-color: #2F3136;
+    border-color: #0000;
+}
+
+.lookInverted-2D7oAl.colorGreen-29iAKY, .buttonInvertedPurple-WtBglX, .lookInverted-2D7oAl.colorBrand-3pXr91 {
+    color: #FFF;
+    background-color: #43B581;
+}
+
+.headerFill-adLl4x {
+	background-color: #0000;
+}
+
+.root-SR8cQa {
+	width: 500px;
+}
+
+.avatar-3EQepX {
+	width: 100px !important;
+	height: 100px !important;
+}
+
+.connectedAccount-36nQx7 {
+	width: 200px;
+	padding-left: 5px;
+}
+
+.topSectionNormal-2-vo2m .tabBarContainer-1s1u-z, .tabBarContainer-1s1u-z, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+	border: none;
+}
+
+.xboxAssets-aGhVw8 {
+    flex: 0;
+}
+
+.buttonSize-AQY2mE {
+	padding
+}
+
+.lookFilled-1Gx00P, .lookInverted-2D7oAl {
+	transition: none;
+}
+
+.header-3C6qT5 {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+/*Fonts*/
+
+.topSectionNormal-2-vo2m .activityHeader-1PExlk, .topSectionNormal-2-vo2m .customStatusText-39gdCI {
+	color: #FFF;
+}
+
+/*Server Boosting*/
+
+.theme-dark .tierHeaderUnlocked-1n-OTI, .theme-light .tierHeaderUnlocked-1n-OTI, .wrapper-3nSjSv, .theme-dark .tierHeaderUnlockedBackground-MW5XJU, .theme-light .tierHeaderUnlockedBackground-MW5XJU {
+    background: #2F3136;
+}
+
+.theme-dark .tierBody-x9kBBp {
+    background: #202225;
+    color: #FFF;
+}
+
+.barForeground-3KglC8 {
+	background-color: #6B80CD;
+}
+
+.tierMarker-5HkGJ_ {
+	background: #6B80CD !important
+}
+
+.badgeIconWithSubscribers-3PlMu9, .theme-dark .icon-QVoPRH, .theme-light .icon-QVoPRH {
+	color: #6B80CD;
+}
+
+.theme-dark .tierMarkerInProgress-24LMzJ .currentTierIcon-2gcTCn.tier3Icon-Ku4Ahe, .theme-light .tierMarkerInProgress-24LMzJ .currentTierIcon-2gcTCn.tier3Icon-Ku4Ahe, .tierMarkerLabelPlusIcon-1OS7E9 {
+	color: #FFF;
+}
+
+.theme-dark .ctaBar-2UsjF2, .theme-dark .perksModal-fSYqOq {
+	background-image: none;
+}
+
+.headerGraphic-nVhv-X, .wrapper-3nSjSv:before {
+	display: none;
+}
+
+/*Channels*/
+
+.group-1WdBVp {
+	border: none;
+	width: 90px;
+}
+
+.deny-3nAuT6, .passthrough-1c2ewQ.selected-2YhbGh, .allow-1PzSY3 {
+	border-radius: 3px !important;
+}
+
+/*Message Bar*/
+
+.fontSize18Padding-2RUesG {
+    padding-left: 9px;
+}
+
+.attachButton-2WznTc {
+    border-right: 1px solid #36393F;
+        padding: 6px 10px;
+}
+
+/*Emotes*/
+
+.emojiRow-zIc7ZX .emojiImage-1hZi2F, .emoji.jumboable {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.marginBottom8-AtZOdT {
+    margin-bottom: 10px;
+}
+
+/*Removed*/
+
+.nowPlayingColumn-2sl4cE, .button-3AYNKb, .botTagVerified-1klIIt, .status-1eOIMS, .art-347BZj {
+    display: none;
+}
