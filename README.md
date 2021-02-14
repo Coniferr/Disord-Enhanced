@@ -1,13 +1,10 @@
 # Disord-E
-Makes some small changes to discords look.
+  Makes some small changes to discords look. 
+Screenshots below showing off some of what is changed.
 
-# Images
-Here are some screenshots to show what is changed
 
-# Profiles
+# Profiles & Screenshare
 
 ![Profiles](https://i.imgur.com/TwnZAdt.png)
-
-# Screenshare
 
 ![Sccrenshare](https://i.imgur.com/5UB6Q7z.png)
