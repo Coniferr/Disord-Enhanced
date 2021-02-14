@@ -1,7 +1,6 @@
-# Disord-E
+# About
   Makes some small changes to discords look. 
-Screenshots below showing off some of what is changed.
-
+Screenshots below showing off some of what is changed. This also only works with dark mode.
 
 # Profiles & Screenshare
 
