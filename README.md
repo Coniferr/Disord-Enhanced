@@ -2,6 +2,8 @@
   Makes some small changes to discords look. 
 Screenshots below showing off some of what is changed. This also only works with dark mode.
 
+!! Notice this does not work on light mode !!
+
 # Profiles & Screenshare
 
 ![Profiles](https://i.imgur.com/TwnZAdt.png)
